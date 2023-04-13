@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4b64428-b66b-454b-865e-7465d4bb07f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/todoapp/todo/api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todoapp/todo/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/todoapp/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/todoapp/todoapp/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todoapp/todoapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/todoapp/todoapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoapp/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/todoapp/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
