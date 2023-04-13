@@ -4,7 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4b64428-b66b-454b-865e-7465d4bb07f1" name="Changes" comment="" />
+    <list default="true" id="d4b64428-b66b-454b-865e-7465d4bb07f1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoapp/frontend/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/todoapp/frontend/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoapp/frontend/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoapp/frontend/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoapp/frontend/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoapp/frontend/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoapp/frontend/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoapp/frontend/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoapp/react-frontend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoapp/react-frontend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoapp/react-frontend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoapp/react-frontend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoapp/react-frontend/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoapp/react-frontend/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoapp/react-frontend/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoapp/react-frontend/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoapp/react-frontend/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoapp/react-frontend/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoapp/react-frontend/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoapp/react-frontend/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoapp/react-frontend/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoapp/react-frontend/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoapp/react-frontend/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoapp/react-frontend/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoapp/react-frontend/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoapp/react-frontend/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoapp/todoapp/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/todoapp/todoapp/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todoapp/todoapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/todoapp/todoapp/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +48,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2OODTXofhExvn1IC6fF53m94mV4" />
   <component name="ProjectLevelVcsManager">
